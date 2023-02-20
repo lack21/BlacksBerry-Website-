@@ -1,6 +1,6 @@
 # Blacksberry
 
-Made In:  
+Tools Used :  
   • HTML  
   • SCSS  
   • JS  
